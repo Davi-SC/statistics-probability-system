@@ -1,2 +1,12 @@
 # statistics-probability-system
-A simple system developed in Python to perform various statistical and probability calculations
+Features:
+ - Statistical Calculations:
+   - Mean
+   - Median
+   - Mode
+ - Probabilistic Calculations:
+   - Binomial
+   - Normal
+   - Poisson Distribution
+How to use:
+ - Clone the repository, run the main.py, and follow the instructions in the menu to perform the desired calculations.
